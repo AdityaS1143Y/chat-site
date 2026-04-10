@@ -1,0 +1,1 @@
+i wan to make a website to chat with a friend who cant log in to google because of some restrictions, i want to make it so that the room code always leads to the same room and people in the room get the notificaation when people message in it
