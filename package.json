@@ -1,0 +1,9 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Simple persistent room chat website with live notifications",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
